@@ -5,16 +5,15 @@ DDOS AND DOS ATTACK </b></i>
 
 </div>
 <br>
-### Auther :
+<h3>AUTHER</h3>
 <p align="center">
 <a href="https://github.com/mao2116"><img title="Github" src="https://img.shields.io/badge/mao2116-grey?style=for-the-badge&logo=github"></a> </p>
 
-### Facebook :
+### FACEBOOK :
 <p align="center"> 
 <a href="https://www.facebook.com/mAoVirUs2116/"><img title="FaceBook" src="https://img.shields.io/badge/FB-MAO VIRUS-lightgrey?style=for-the-badge&logo=facebook"></a>
 </p>
 
-<br>
 
 #### TESTED :
 
