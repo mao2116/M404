@@ -10,7 +10,7 @@ DDOS AND DOS ATTACK </b></i>
 
 ### Facebook :
 <p align="center"> 
-<a href="https://www.facebook.com/mAoVirUs2116/"><img title="FaceBook" src="https://img.shields.io/badge/FB-MAO-VIRUS-lightgrey?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.facebook.com/mAoVirUs2116/"><img title="FaceBook" src="https://img.shields.io/badge/FB-MAO VIRUS-lightgrey?style=for-the-badge&logo=facebook"></a>
 </p>
 
 <br>
